@@ -10,7 +10,7 @@ export const ME = {
   email:"brahimbadreddine22@example.com",
   location: "Rabat, Morocco",
   phone: "+212682378622",
-  website: "https://yourwebsite.com",
+  website: "https://brahimdevfs.github.io/my-porftfolio1/",
   resumeUrl: "https://yourwebsite.com/resume.pdf",
 };
 
@@ -38,7 +38,7 @@ export const PROJECTS = [
     highlights: ["Dynamic fetching of vulnerabilities using Axios",
       "Real-time display of security status per host",
       "Interactive tables and charts for analysis"],
-      repo: "https://github.com/tonGitHub/react-vuln-scanner",
+      repo: "https://github.com/Brahimdevfs/vulnerability",
     demo: "https://www.tonsite.com/demo/react-vuln-scanner"
   },
     {
